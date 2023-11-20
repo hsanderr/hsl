@@ -1,0 +1,32 @@
+.bg-dark {
+	background-color: #000 !important;
+}
+
+.bg-beige {
+	background-color: #F4DFC8;
+}
+
+.navbar-dark a {
+	color: #FAF6F0 !important;
+}
+
+.navbar-dark a:hover {
+	color: #F4DFC8 !important;
+	transition: all 200ms linear;
+}
+
+.img-profile {
+	max-width: 100%;
+	max-height: 30vh;
+	border-radius: 50%;
+}
+
+.link-custom {
+	text-decoration: none;
+	text-wrap: nowrap;
+	color: #472b00;
+}
+
+.bg-beige-light {
+	background-color: #F4EAE0;
+}
